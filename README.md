@@ -1,2 +1,2 @@
-# ubuntu22.04.3LTS
+# Ubuntu22.04.3LTS
 Preparacion de Ubuntu
