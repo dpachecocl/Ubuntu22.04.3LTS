@@ -67,7 +67,7 @@ sudo mv MesloLGS\ NF\ *.ttf /usr/local/share/fonts/
 fc-cache -fv
 ```
 
-> [!NOTA]
+> [!NOTE]
 > Se debe reiniciar y configurar las fonts en terminator
 
 ### Instalacion de versiones anteriores de python
