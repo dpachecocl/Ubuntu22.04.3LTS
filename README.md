@@ -21,9 +21,10 @@ sudo apt install curl
 
 ### Descarga de BurpSuite
 https://portswigger.net/burp/releases#community
-
+```
 chmod +x burpsuite_community_linux_v2023_10_2_2.sh 
 ./burpsuite_community_linux_v2023_10_2_2.sh
+```
 
 git clone https://github.com/mkbrutusproject/MKBRUTUS.git
 git clone https://github.com/BasuCert/WinboxPoC.git
