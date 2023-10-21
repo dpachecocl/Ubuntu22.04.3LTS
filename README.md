@@ -1,5 +1,5 @@
 # Ubuntu22.04.3LTS
-Preparacion de Ubuntu
+## Preparacion de Ubuntu
 
 ```
 sudo apt install wireshark -y
@@ -19,7 +19,9 @@ sudo apt-get install zsh -y
 sudo apt install curl
 ```
 
-##Descarga de BurpSuite
+### Descarga de BurpSuite
+https://portswigger.net/burp/releases#community
+
 chmod +x burpsuite_community_linux_v2023_10_2_2.sh 
 ./burpsuite_community_linux_v2023_10_2_2.sh
 
