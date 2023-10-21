@@ -1,6 +1,6 @@
 # Ubuntu22.04.3LTS
 Preparacion de Ubuntu
-'''
+'
 sudo apt install wireshark -y
 sudo apt install tshark -y
 sudo apt install nmap -y
@@ -16,7 +16,7 @@ sudo apt install python3-pip -y
 sudo apt install terminator -y
 sudo apt-get install zsh -y
 sudo apt install curl
-'''
+'
 
 ##Descarga de BurpSuite
 chmod +x burpsuite_community_linux_v2023_10_2_2.sh 
