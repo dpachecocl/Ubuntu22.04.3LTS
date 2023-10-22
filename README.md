@@ -36,10 +36,11 @@ git clone https://github.com/BasuCert/WinboxPoC.git
 git clone https://github.com/theevilbit/ciscot7.git
 git clone https://github.com/lesandcl/Llaitun.git
 ```
-### Instalacion de ohmyzh y tema powerlevel10k
+### Instalacion de ohmyzh
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+### Instalacion de Powerlevel10k
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
