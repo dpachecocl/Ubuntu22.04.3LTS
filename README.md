@@ -79,3 +79,12 @@ sudo apt install python3.7
 sudo apt install python3.7-distutils
 cd /usr/lib/x86_64-linux-gnu/
 sudo ln -s -f libc.a liblibc.a
+
+sudo apt install virtualenv -y
+
+### Instalacion de ambiente virtual
+cd
+cd Desktop/tools/
+virtualenv env3.7 -p python3.7
+source env3.7/bin/activate
+
