@@ -79,16 +79,19 @@ fc-cache -fv
 sudo apt install software-properties-common -y
 sudo add-apt-repository ppa:deadsnakes/ppa -y
 sudo apt update
-sudo apt install python3.7
-sudo apt install python3.7-distutils
+sudo apt install python3.7 -y
+sudo apt install python3.7-distutils -y
 cd /usr/lib/x86_64-linux-gnu/
 sudo ln -s -f libc.a liblibc.a
+```
 
+```
 sudo apt install virtualenv -y
-
+```
 ### Instalacion de ambiente virtual
+```
 cd
 cd Desktop/tools/
 virtualenv env3.7 -p python3.7
 source env3.7/bin/activate
-
+```
