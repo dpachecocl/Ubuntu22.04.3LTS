@@ -6,7 +6,7 @@ sudo apt install wireshark -y
 sudo apt install tshark -y
 sudo apt install nmap -y
 sudo apt install git -y
-sudo apt install python3-scapy
+sudo apt install python3-scapy -y
 sudo apt install hashcat -y
 sudo apt install hydra -y
 sudo apt install onesixtyone -y
