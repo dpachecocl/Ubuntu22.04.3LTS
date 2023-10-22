@@ -34,6 +34,7 @@ cd tools
 git clone https://github.com/mkbrutusproject/MKBRUTUS.git
 git clone https://github.com/BasuCert/WinboxPoC.git
 git clone https://github.com/theevilbit/ciscot7.git
+git clone https://github.com/lesandcl/Llaitun.git
 ```
 ### Instalacion de ohmyzh y tema powerlevel10k
 ```
