@@ -119,3 +119,14 @@ cd Pictures
 wget https://getwallpapers.com/wallpaper/full/4/e/5/724440-free-download-ubuntu-wallpaper-hd-1920x1080.jpg
 gsettings set org.gnome.desktop.background picture-uri "file://$(pwd)/724440-free-download-ubuntu-wallpaper-hd-1920x1080.jpg"
 ```
+### Instalacion de Obsidian
+Descarga https://obsidian.md/download
+```
+sudo apt-get install fuse -y
+```
+```
+chmod u+x Obsidian.AppImage
+```
+```
+./Obsidian-1.0.3.AppImage --disable-gpu
+```
