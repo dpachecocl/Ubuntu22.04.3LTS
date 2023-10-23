@@ -88,6 +88,13 @@ sudo ln -s -f libc.a liblibc.a
 ```
 sudo apt install virtualenv -y
 ```
+### Instalacion de requerimientos de Llaitun y ejecucion
+```
+cd Llaitun
+pip install -r requirements.txt
+sudo $(which python) Llaitun.py 
+```
+
 ### Instalacion de ambiente virtual
 ```
 cd
