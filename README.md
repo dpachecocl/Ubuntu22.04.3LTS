@@ -95,3 +95,10 @@ cd Desktop/tools/
 virtualenv env3.7 -p python3.7
 source env3.7/bin/activate
 ```
+### Cambio de Fondo de pantalla
+```
+cd
+cd Pictures
+wget https://getwallpapers.com/wallpaper/full/4/e/5/724440-free-download-ubuntu-wallpaper-hd-1920x1080.jpg
+gsettings set org.gnome.desktop.background picture-uri "file://$(pwd)/724440-free-download-ubuntu-wallpaper-hd-1920x1080.jpg"
+```
