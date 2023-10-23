@@ -21,6 +21,7 @@ sudo apt-get install cewl -y
 sudo apt install python3-pip -y
 sudo apt install terminator -y
 sudo apt-get install zsh -y
+sudo apt-get install net-tools -y
 sudo apt install curl
 ```
 
