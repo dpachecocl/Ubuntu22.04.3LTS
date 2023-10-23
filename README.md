@@ -1,5 +1,8 @@
 # Ubuntu22.04.3LTS
 ## Preparacion de Ubuntu con Herramientas Ofensivas
+```
+sudo apt update & sudo apt upgrade -y
+```
 
 ```
 sudo apt install wireshark -y
