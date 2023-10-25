@@ -82,7 +82,10 @@ fc-cache -fv
 ```
 
 > [!NOTE]
-> Se debe reiniciar y configurar las fonts en terminator
+> Se deben configurar las fonts en terminales
+> Ejemplo de configuración powerlevel10k: YYYY 312 122 231 112 1y 1y
+
+
 
 ### Instalacion de versiones anteriores de python
 ```
