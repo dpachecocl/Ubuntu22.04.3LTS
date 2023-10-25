@@ -98,13 +98,6 @@ sudo ln -s -f libc.a liblibc.a
 ```
 sudo apt install virtualenv -y
 ```
-### Instalacion de requerimientos de Llaitun y ejecucion
-```
-cd Llaitun
-pip install -r requirements.txt
-sudo $(which python) Llaitun.py 
-```
-
 ### Instalacion de ambiente virtual
 ```
 cd
@@ -112,6 +105,16 @@ cd Desktop/tools/
 virtualenv env3.7 -p python3.7
 source env3.7/bin/activate
 ```
+
+### Instalacion de requerimientos de Llaitun y ejecucion
+```
+cd
+cd Desktop/tools/Llaitun
+pip install -r requirements.txt
+sudo $(which python) Llaitun.py 
+```
+
+
 ### Cambio de Fondo de pantalla
 ```
 cd
